@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Het%20Sakariya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20FAANG%20Aspirant&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Het%20Sakariya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Full%20Stack%20Developer%20%7C%20FAANG%20Aspirant&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7EB2FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;C%2B%2B+%7C+JavaScript+%7C+MERN+Stack;System+Design+%7C+DSA+%7C+Clean+Architecture;Open+to+global+opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7EB2FF&center=true&vCenter=true&width=700&lines=1st+Year+CS+Done+%E2%9C%85+%7C+Year+2+Grind+Starts!;Building+Projects+%7C+Learning+MERN+Stack+%F0%9F%9A%80;Grinding+DSA+Daily+%7C+Targeting+FAANG+%F0%9F%8E%AF;Open+for+Internships+%7C+2025%E2%80%9326+%F0%9F%99%8C)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=hetsakariya0111-gi&label=Profile+Views&color=4A90E2&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hetsakariya0111-gi&label=Profile+Views&color=4A90E2&style=flat-square"/>
 &nbsp;&nbsp;
-<a href="https://github.com/hetsakariya0111-gi?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/hetsakariya0111-gi?style=flat-square&color=4A90E2&label=Followers"/></a>
+<img src="https://img.shields.io/badge/Status-Open%20for%20Internships-brightgreen?style=flat-square"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Year-2nd%20Year%20(2025--26)-7EB2FF?style=flat-square"/>
 
 </div>
 
@@ -20,53 +22,34 @@
 
 ```yaml
 name        : Het Sakariya
-role        : Full Stack Developer (MERN)
-location    : India 🇮🇳  →  Open to USA 🇺🇸 | Canada 🇨🇦 | Europe 🇪🇺 | Remote 🌐
-focus       : [System Design, DSA, Production-grade Web Apps]
-goal        : FAANG & Top-tier Tech Companies
-status      : Building. Learning. Shipping.
+degree      : B.Tech Computer Science — Year 1 ✅ Complete
+institution : Swaminarayan University, India 🇮🇳
+role        : Aspiring Full Stack Developer & SDE Intern
+stack       : MERN (MongoDB · Express · React · Node.js)
+dsa         : C++ | Grinding LeetCode daily 🔥
+status      : 🟢 Actively seeking SDE Internships (2025–26)
+target      : FAANG & Top-tier Tech · USA 🇺🇸 | Canada 🇨🇦 | Remote 🌐
 ```
 
-> 💡 *"I don't just write code — I engineer solutions. Every bug is a puzzle, every feature a story."*
+> *"Year 1 done. The grind has just begun."* 🎯
+
+---
+
+## 🎓 My Journey So Far
+
+| Milestone | Status |
+|:---|:---:|
+| 🏫 Completed 1st Year of B.Tech CS | ✅ Done |
+| 💻 Learned C, C++ & Core Programming | ✅ Done |
+| 🌐 Started MERN Stack Development | 🔄 In Progress |
+| 📐 DSA Foundations (Arrays, Strings, Linked List) | 🔄 In Progress |
+| 🏗️ Building Real-World Projects | 🔄 In Progress |
+| 🤝 Open Source Contributions | 📅 Planned |
+| 🏢 SDE Internship (FAANG / Top Startups) | 🎯 Targeting 2025–26 |
 
 ---
 
 ## 🛠 Tech Stack
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-**Languages**
-```
-C / C++   ████████████ Expert
-JavaScript ██████████░░ Advanced
-```
-
-  </td>
-  <td valign="top" width="33%">
-
-**Frontend**
-```
-React     ██████████░░ Advanced
-HTML/CSS  ████████████ Expert
-Figma     ████████░░░░ Intermediate
-```
-
-  </td>
-  <td valign="top" width="33%">
-
-**Backend & DB**
-```
-Node.js   ██████████░░ Advanced
-Express   ██████████░░ Advanced
-MongoDB   ████████░░░░ Intermediate
-REST APIs ██████████░░ Advanced
-```
-
-  </td>
-  </tr>
-</table>
 
 <div align="center">
 
@@ -89,6 +72,48 @@ REST APIs ██████████░░ Advanced
 
 ---
 
+## 🎯 FAANG Prep Roadmap (Year 2 → Year 4)
+
+```
+YEAR 2 (2025–26) — Foundation & First Internship
+───────────────────────────────────────────────────
+ DSA (C++)         [████░░░░░░]  Grinding Daily on LeetCode
+ MERN Stack        [██████░░░░]  Building Projects
+ Projects (2–3)    [████░░░░░░]  In Progress
+ Internship Hunt   [██░░░░░░░░]  Applying Actively 🟢
+
+YEAR 3 (2026–27) — Depth & Big Tech Prep
+───────────────────────────────────────────────────
+ System Design     [░░░░░░░░░░]  LLD + HLD
+ DSA 300+ Solved   [░░░░░░░░░░]  LeetCode Hard
+ Cloud (AWS/GCP)   [░░░░░░░░░░]  Planned
+ FAANG Interviews  [░░░░░░░░░░]  Targeting
+
+YEAR 4 (2027–28) — Placement / Full-Time Offer
+───────────────────────────────────────────────────
+ FAANG / Top MNC   [░░░░░░░░░░]  The Goal 🏆
+```
+
+---
+
+## 🟢 I'm Open For
+
+<div align="center">
+
+| Opportunity | Details |
+|:---|:---|
+| 🧑‍💻 **SDE Internship** | Full Stack / Backend / Frontend |
+| 🌐 **Remote Internship** | Open to global remote roles |
+| 🏢 **On-site** | India · USA · Canada · Europe |
+| 🤝 **Collaborations** | Open Source · Side Projects · Hackathons |
+| 📚 **Mentorship** | Always happy to learn from seniors in the field |
+
+</div>
+
+> 📩 **DM me on LinkedIn or drop an email — I respond fast!**
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -98,37 +123,16 @@ REST APIs ██████████░░ Advanced
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetsakariya0111-gi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7EB2FF&fire=7EB2FF&currStreakLabel=7EB2FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetsakariya0111-gi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7EB2FF&fire=7EB2FF&currStreakLabel=7EB2FF"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hetsakariya0111-gi&theme=nord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </div>
-
----
-
-## 🎯 Roadmap
-
-```
-Q2 2025   [██████████] LeetCode 100+ problems solved
-Q3 2025   [████░░░░░░] System Design (LLD + HLD) — In Progress
-Q3 2025   [██████░░░░] 3+ Production-ready full-stack projects
-Q4 2025   [░░░░░░░░░░] AWS / Docker / CI-CD
-Q1 2026   [░░░░░░░░░░] Open Source Contributions (React / Node.js)
-2026      [░░░░░░░░░░] Land a global / FAANG-tier role
-```
-
-| Milestone | Target | Status |
-|:---|:---:|:---:|
-| 300+ LeetCode Problems | 2025 | 🔄 In Progress |
-| 5 Production Full-Stack Apps | 2025 | 🔄 Building |
-| AWS + Docker Proficiency | Late 2025 | 📅 Planned |
-| Open Source Contributor | Early 2026 | 📅 Planned |
-| International Tech Role | 2026 | 🎯 Goal |
 
 ---
 
@@ -146,23 +150,21 @@ Q1 2026   [░░░░░░░░░░] Open Source Contributions (React / No
 
 [![GitHub](https://img.shields.io/badge/GitHub-@hetsakariya0111--gi-181717?style=flat-square&logo=github)](https://github.com/hetsakariya0111-gi)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/het-sakariya-9159623ab/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hetsakariya.0111@gmail.com)
 
-<br/>
-<br/>
+<br/><br/>
 
-*Available for **freelance**, **internships**, and **full-time** opportunities globally.*
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Available-Internship%20%7C%20Projects%20%7C%20Collabs-success?style=for-the-badge"/>
+
+<br/><br/>
+<sub>📍 India · B.Tech CS · Year 2 (2025–26) · Building every day 🔥</sub>
 
 </div>
 
 ---
 
 <div align="center">
-
-<sub>Crafted with intention by Het Sakariya · Last updated 2025</sub>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 </div>
